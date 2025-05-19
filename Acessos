@@ -1,7 +1,7 @@
 return {
 	["3cff3df2-cf49-4c9c-9b48-e6697c97842f"] = { timestamp = 1747589491 }, -- GELADE
 	["3DDE034F-D21B-49C8-A850-8792128657A2"] = { timestamp = 1748405093 }, -- King Gayzinho
-	["12C0FB60-2EF0-4709-83F9-B0B718D75877"] = { timestamp = 1778866291 }, -- REKE VIADINHO
+	["12C0FB60-2EF0-4709-83F9-B0B718D75877"] = { timestamp = math.huge }, -- REKE VIADINHO
 	["7e2b6dca-63f7-424f-b61a-4ab423c41321"] = { timestamp = math.huge },   -- WEB
 	["0ca7d54e-35df-4403-8bdb-8b8e505fbfd8"] = { timestamp = math.huge },   -- Julio (ajustado ID para minúsculo)
 	["e70b295e-da02-4e2d-b870-e9bf94a11ffa"] = { timestamp = math.huge },   -- Biel (verificar se ID está correto)
@@ -9,7 +9,6 @@ return {
 	["72a386ad-9c7c-4e3a-a971-7781d9a21c80"] = { timestamp = 1747743801 },   -- Sla Qm Amigo Do Biel
 
 }
-
 
 
 --[[ EXEMPLO 1812w12
