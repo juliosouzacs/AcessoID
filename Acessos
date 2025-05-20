@@ -6,8 +6,8 @@ return {
 	["070a387d-c005-43e4-b4df-e9efe004eca1"] = { timestamp = math.huge },   -- Julio (ajustado ID para minúsculo)
 	["e70b295e-da02-4e2d-b870-e9bf94a11ffa"] = { timestamp = math.huge },   -- Biel (verificar se ID está correto)
 	["d3b0f935-801e-4c2a-a6a7-406f1dece906"] = { timestamp = math.huge },   -- Eu
-	["72a386ad-9c7c-4e3a-a971-7781d9a21c80"] = { timestamp = 1747743801 },   -- Sla Qm Amigo Do Biel
-	["60090C55-1D6A-4937-8E42-BDAFIFD018EB"] = { timestamp = math.huge },   -- Julio PC
+	["1b7a72de-9fe8-4654-98d3-05e1af04cd56"] = { timestamp = math.huge },   --  passoca_001
+
 
 
 }
