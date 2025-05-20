@@ -7,7 +7,7 @@ return {
 	["e70b295e-da02-4e2d-b870-e9bf94a11ffa"] = { timestamp = math.huge },   -- Biel (verificar se ID está correto)
 	["d3b0f935-801e-4c2a-a6a7-406f1dece906"] = { timestamp = math.huge },   -- Eu
 	["72a386ad-9c7c-4e3a-a971-7781d9a21c80"] = { timestamp = 1747743801 },   -- Sla Qm Amigo Do Biel
-	["60C90C55-1D6A-4937-8E42-BDAF1FD018EB"] = { timestamp = math.huge },   -- Julio PC
+
 
 }
 
