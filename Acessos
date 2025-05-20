@@ -3,7 +3,7 @@ return {
 	["3DDE034F-D21B-49C8-A850-8792128657A2"] = { timestamp = 1748405093 }, -- King Gayzinho
 	["12C0FB60-2EF0-4709-83F9-B0B718D75877"] = { timestamp = math.huge }, -- REKE VIADINHO
 	["a502ff14-d391-4b3c-8275-838b2aee92da"] = { timestamp = math.huge },   -- WEB
-	["070a387d-c005-43e4-b4df-e9efe004eca1"] = { timestamp = math.huge },   -- Julio (ajustado ID para minúsculo)
+	["96717dff-dffb-4f31-af1d-c4e1de488857"] = { timestamp = math.huge },   -- Julio (ajustado ID para minúsculo)
 	["e70b295e-da02-4e2d-b870-e9bf94a11ffa"] = { timestamp = math.huge },   -- Biel (verificar se ID está correto)
 	["d3b0f935-801e-4c2a-a6a7-406f1dece906"] = { timestamp = math.huge },   -- Eu
 	["1b7a72de-9fe8-4654-98d3-05e1af04cd56"] = { timestamp = math.huge },   --  passoca_001
