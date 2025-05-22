@@ -7,6 +7,7 @@ return {
 	["e4266755-8371-456e-bf53-2b78af991984"] = { timestamp = math.huge },   -- Biel (verificar se ID está correto)
 	["d3b0f935-801e-4c2a-a6a7-406f1dece906"] = { timestamp = math.huge },   -- Eu
 	["1b7a72de-9fe8-4654-98d3-05e1af04cd56"] = { timestamp = 1750291200 },   --  passoca_001
+	["8e30b5015-a749-4a23-977f-1fb594bfa86b"] = { timestamp = 1750291200 },   -- Joleo
 
 
 
