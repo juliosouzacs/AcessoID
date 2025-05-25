@@ -10,6 +10,7 @@ return {
 	["bf9c4b04-9d0f-4273-af54-df54f0c15daf"] = { timestamp = 1750464000 },   -- Misterio
 	["1FF998E9-E04C-484A-A558-00DAF257A0FD"] = { timestamp = 1748238566 },   -- diaslk - Teste Gratis
 	["23BEC96F-11DF-477F-83DE-139F95F3B5EF"] = { timestamp = 1748238566 },   -- Um Noia - Teste Gratis
+	["A2F0B39F-FBAB-4C2E-B007-727166846A05"] = { timestamp = math.huge },   -- JUILO PC
 
 }
 
