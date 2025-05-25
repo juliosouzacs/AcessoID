@@ -1,4 +1,4 @@
-return {
+creturn {
 	["3cff3df2-cf49-4c9c-9b48-e6697c97842f"] = { timestamp = 1747589491 }, -- GELADE
 	["3DDE034F-D21B-49C8-A850-8792128657A2"] = { timestamp = 1748405093 }, -- King Gayzinho
 	["12C0FB60-2EF0-4709-83F9-B0B718D75877"] = { timestamp = math.huge }, -- REKE VIADINHO
@@ -9,6 +9,7 @@ return {
 	["aaad892b-671e-49e5-ba58-2d518cae15ea"] = { timestamp = math.huge },   -- JUILO
 	["bf9c4b04-9d0f-4273-af54-df54f0c15daf"] = { timestamp = 1750464000 },   -- Misterio
 	["1FF998E9-E04C-484A-A558-00DAF257A0FD"] = { timestamp = 1748238566 },   -- diaslk
+	["23BEC96F-11DF-477F-83DE-139F95F3B5EF"] = { timestamp = 1748238566 },   -- diaslk
 
 }
 
