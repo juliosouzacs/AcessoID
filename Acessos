@@ -1,4 +1,4 @@
-creturn {
+return {
 	["3cff3df2-cf49-4c9c-9b48-e6697c97842f"] = { timestamp = 1747589491 }, -- GELADE
 	["3DDE034F-D21B-49C8-A850-8792128657A2"] = { timestamp = 1748405093 }, -- King Gayzinho
 	["12C0FB60-2EF0-4709-83F9-B0B718D75877"] = { timestamp = math.huge }, -- REKE VIADINHO
