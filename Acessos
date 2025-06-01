@@ -1,6 +1,4 @@
 return {
-	["3DDE034F-D21B-49C8-A850-8792128657A2"] = { timestamp = 1748405093 }, -- King Gayzinho
-	["12C0FB60-2EF0-4709-83F9-B0B718D75877"] = { timestamp = math.huge }, -- REKE VIADINHO
 	["c2e38c69-f0dc-47c2-aeaa-385cebb4f72b"] = { timestamp = math.huge },   -- WEB
 	["dc65074c-33e4-4b36-8c6c-3e7fa089c43e"] = { timestamp = math.huge },   -- Biel
 	["d3b0f935-801e-4c2a-a6a7-406f1dece906"] = { timestamp = math.huge },   -- Eu
