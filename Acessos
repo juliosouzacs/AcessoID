@@ -1,12 +1,9 @@
 return {
-	["c2e38c69-f0dc-47c2-aeaa-385cebb4f72b"] = { timestamp = math.huge },   -- WEB
 	["dc65074c-33e4-4b36-8c6c-3e7fa089c43e"] = { timestamp = math.huge },   -- Biel
 	["d3b0f935-801e-4c2a-a6a7-406f1dece906"] = { timestamp = math.huge },   -- Eu
-	["1b7a72de-9fe8-4654-98d3-05e1af04cd56"] = { timestamp = 1750291200 },   --  passoca_001
 	["0044b05d-3f67-4e0c-b9a6-b7febceff1e3"] = { timestamp = math.huge },   -- JUILO
 	["58152118-7B03-40D0-842B-604D897A8D62"] = { timestamp = math.huge },   -- JUILO PC
 	["c482feac-e456-4391-8a3b-52664291268b"] = { timestamp = math.huge },   -- Misterio
-	["1BC00C41-90BB-489F-A958-3A9E874322A0"] = { timestamp = 1748936176 },   -- BLT_DAVI | 03/06 Evento
 }
 
 --[[ EXEMPLO 1812w12
