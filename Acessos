@@ -1,7 +1,7 @@
 return {
 	["dc65074c-33e4-4b36-8c6c-3e7fa089c43e"] = { timestamp = math.huge },   -- Biel
 	["4221a3c1-f13b-4f85-8dae-0e943b08b858"] = { timestamp = math.huge },   -- Eu
-	["b16943c3-6cec-4e7c-a3c6-c15c8878a884"] = { timestamp = math.huge },   -- JUILO
+	["aa443db2-5f2b-46b5-a3c7-d1601d80c024"] = { timestamp = math.huge },   -- JUILO
 	["58152118-7B03-40D0-842B-604D897A8D62"] = { timestamp = math.huge },   -- JUILO PC
 	["c482feac-e456-4391-8a3b-52664291268b"] = { timestamp = math.huge },   -- Misterio
 	["3DDE034F-D21B-49C8-A850-8792128657A2"] = { timestamp = 1751324942 },   -- King
