@@ -5,6 +5,7 @@ return {
 	["58152118-7B03-40D0-842B-604D897A8D62"] = { timestamp = math.huge },   -- JUILO PC
 	["c482feac-e456-4391-8a3b-52664291268b"] = { timestamp = math.huge },   -- Misterio
 	["3DDE034F-D21B-49C8-A850-8792128657A2"] = { timestamp = 1751324942 },   -- King
+	["4CE3B295-CFF4-4C31-906F-8E87A7F700AE"] = { timestamp = 1751182083 },   -- kksallum
 }
 
 --[[ EXEMPLO 1812w12
