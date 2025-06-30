@@ -7,6 +7,7 @@ return {
 	["3DDE034F-D21B-49C8-A850-8792128657A2"] = { timestamp = 1751324942 },   -- King
 	["4CE3B295-CFF4-4C31-906F-8E87A7F700AE"] = { timestamp = 1751182083 },   -- kksallum
 	["9cf70e25-cd17-4b1a-8b2c-581cb943f8ea"] = { timestamp = 1751104361 },   -- slameno remover dia 29/06
+	["602C660D-75AF-4B98-9CFE-14BF5B29A5D8"] = { timestamp = 1748995200 },   -- sannx_ss
 }
 
 --[[ EXEMPLO 1812w12
